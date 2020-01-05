@@ -3,7 +3,7 @@
 * [Code of Conduct](/www-policy/operational/code-of-conduct.html)
 
 ### Stay Connected & Updated
-* ![Meetup](/www-chapter-meerut/assets/images/meetup.png) [Meetup](https://www.meetup.com/OWASP-Meerut-Chapter/)
+* [Meetup](https://www.meetup.com/OWASP-Meerut-Chapter/)
 * [Facebook](https://www.facebook.com/OWASPMeerut)
 * [LinkedIn](https://www.linkedin.com/groups/10441368/)
 * [Slack](https://owasp.slack.com/messages/CJNJRF327)
