@@ -1,6 +1,9 @@
-<!--### Chapter Information
-* Chapter Region
+### Chapter Information
+* [Become a Member](https://www.owasp.org/index.php/Membership)
+* [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
 
-### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+### Stay Connected & Updated
+* [Meetup](https://www.meetup.com/OWASP-Meerut-Chapter/)
+* [Facebook](https://www.facebook.com/OWASPMeerut)
+* [LinkedIn](https://www.linkedin.com/groups/10441368/)
+* [Slack](https://owasp.slack.com/messages/CJNJRF327)
