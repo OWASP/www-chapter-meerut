@@ -13,8 +13,8 @@ Follow chapter news on [Meetup](https://www.meetup.com/OWASP-Meerut-Chapter/) | 
 
 ## Participate
 There are 2 ways to participate in the OWASP Meerut Chapter Events
-### Attending the Event
-### Speaking at the Event
+__* Attending the Event
+* Speaking at the Event__
 Look at the **Participation** Tab for further details.
 
 ## Meetings / Events
