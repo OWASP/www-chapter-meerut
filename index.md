@@ -20,5 +20,5 @@ Look at the **Participation** Tab for further details.
 ## Meetings / Events
 Meetings / Events information is updated on the Meetup Page.
 
-##Code of Conduct
+## Code of Conduct
 We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to one of our chapter leaders if you have any feedback or would like to speak to us, we take these matters very seriously. You can find out more about our policies here: [Code of Conduct](/www-policy/operational/code-of-conduct.html)
