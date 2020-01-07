@@ -1,10 +1,9 @@
 ---
 
 title: Participation
-layout: null
 tab: true
 order: 2
-tags: participation
+tags: meerut
 
 ---
 
