@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Meerut
 tags: meerut
-region: Asia/Pacific
+region: Asia
 
 ---
 
