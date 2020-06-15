@@ -9,7 +9,7 @@ region: Asia
 
 ## Welcome
 Welcome to the Meerut chapter homepage. The chapter board is [Hanut Kumar Arora](mailto:hanut.arora@owasp.org), [Vivek Kumar](mailto:vivek.kumar@owasp.org) and [Teena Garg](mailto:teena.garg@owasp.org).  
-Follow chapter news on [Meetup](https://www.meetup.com/OWASP-Meerut-Chapter/) | [Facebook](https://www.facebook.com/OWASPMeerut) | [LinkedIn](https://www.linkedin.com/groups/10441368/) | [Slack](https://owasp.slack.com/messages/CJNJRF327)
+Follow chapter news on [Meetup](https://www.meetup.com/OWASP-Meerut-Chapter/) | [Facebook](https://www.facebook.com/OWASPMeerut) | [YouTube](https://www.youtube.com/channel/UC1PIyiJ4-X0OrOXiy0A1Y0g/) | [LinkedIn](https://www.linkedin.com/groups/10441368/) | [Instagram](https://www.instagram.com/OWASPMeerut) | [Slack](https://owasp.slack.com/messages/CJNJRF327)
 
 ## Chapter Supporters
 <table cellpadding="15" cellspacing="0">
