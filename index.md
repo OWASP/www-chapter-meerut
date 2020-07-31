@@ -4,6 +4,9 @@ layout: col-sidebar
 title: OWASP Meerut
 tags: meerut
 region: Asia
+meetup-group: OWASP-Meerut-Chapter
+country: India
+postal-code: 
 
 ---
 
