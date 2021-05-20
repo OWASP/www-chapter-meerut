@@ -13,4 +13,4 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 
 ## About OWASP Chapters
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button.
+Chapters are led by local leaders in accordance with the [NEW Chapter policy](https://owasp.org/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button.
